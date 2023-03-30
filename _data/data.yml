@@ -7,44 +7,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Puvaan Raaj
+    tagline: Software Engineer
+    avatar: puvaanraaj.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: puvaanraaj2001@gmail.com
+    phone: 01156291404
+    timezone: 
+    citizenship: Malaysia
+    website: puvaanraaj.com #do not add http://
+    linkedin: puvaanraaj
     xing: alandoe
-    github: sharu725
+    github: PuvaanRaaj
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 16213805/puvaan-raaj
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Fluent
+
+        - idiom: Malay
+          level: Fluent
+
+        - idiom: Tamil
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Serving Internet
           link:
 
         - item: Snowboarding
@@ -56,103 +56,71 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly motivated and detail-oriented Computer Science graduate with a focus on Software Engineering, ready to bring a strong foundation in programming, problem-solving, and critical thinking skills to the professional realm. Adept at collaborating in team environments and adapting to new technologies, I am eager to contribute to the success of innovative projects while continuously enhancing my skillset. With a passion for creating robust and efficient solutions, I am eager to make a positive impact in a challenging and rewarding role.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor of Computer Science (Sofware Engineer) with Honors
+        university: University Tun Hussein Onn Malaysia
+        time: 2020 - Present
+        details: |
+            - Current CGPA : 3.84
+            
+      - degree: Matriculation
+        university: Perak Matriculation College
+        time: 2019 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Head Of Badminton Association
+            
 experiences:
-    title: Experiences
+    title: Project
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Final Year Project
+        time: 2022 - Present
+        company: Laravel, PHP, JavaScript, HTML, CSS3, Bootstrap, Tailwind
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I am currently working on a web-based management system project aimed at addressing the challenges faced by business owners in managing their operations manually. The system consists of several modules, including registration, login, account management, stock control, financial information handling, employee details management, order processing, and payment. By implementing this system, we can eliminate data redundancy and duplication, as all information is stored in a central database. It also enhances security by restricting access to authorized users, ensuring data privacy and preventing breaches. Furthermore, the system streamlines financial management by automating calculations and reducing errors typically associated with manual processes. Finally, the platform simplifies order and payment management for customers, allowing them to easily access available products and choose their preferred payment method.
+      - role: Awesome Book Store Inventory System
+        time: 2022
+        company: HTML, CSS3, Bootstrap, PHP
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I developed a web-based system for a web development course that streamlines business operations with features such as pre-configured login credentials, password reset options, and supplier management. The system allows users to manage customer orders, auto-filling existing customer information, and displaying order details in a table. Additionally, the platform facilitates product creation, stock management, and supplier linking, with the ability to edit or delete products as needed. The system also includes staff management capabilities, enabling users to input staff details and allowing admins to view staff status.
+      - role: Portfolio Website
+        time: 2023 - Present 
+        company: HTML5, CSS3, JavaScript
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          My portfolio website showcases a diverse range of projects that highlight my expertise in various programming languages, frameworks, and libraries, as well as my adaptability to different environments and challenges.
+My website highlights my skills in front-end development and back-end development. It also demonstrates my proficiency in languages such as HTML, CSS, JavaScript, and PHP, as well as my familiarity with frameworks like Bootstrap and Tailwind. By navigating through the website, potential employers can gain a comprehensive understanding of my technical abilities and dedication to continuous learning and improvement.
+
 projects:
-    title: Projects
+    title: License & Certification
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of License and Certifcate i earned
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Microsoft Azure Fundamentals (AZ-900)
+        link: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e0eb409-67b3-496d-a7bf-051a858df49a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        tagline: 
 
-      - title: DevStudio
+      - title: Microsoft Azure AI Fundamentals (AI-900)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
 
-      - title: Tempo
+      - title: Microsoft Azure Data Fundamentals (DP-900)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
-      - title: Atom
+      - title: Microsoft Power Platform Fundamentals (PL-900)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: Meta Front End Development Professional Certificate 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 oss:
     title: OSS Contributions
